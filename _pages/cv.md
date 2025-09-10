@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Liverpool John Moores University, 2027 (expected)
+* B.S. Software Engineer, Van Lang University, 2017
 
 Work experience
 ======
@@ -24,7 +23,7 @@ Work experience
 
 * Fall 2015: Research Assistant
   * GitHub University
-  * Duties included: Merging pull requests
+  * Duties includes: Merging pull requests
   * Supervisor: Professor Hub
 
 * Summer 2015: Research Assistant
